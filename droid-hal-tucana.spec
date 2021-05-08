@@ -15,7 +15,6 @@
 	/product \
 	/product_services \
 	/sdcard \
-	/vendor \
 	/bugreports \
 %{nil}
 
