@@ -1,11 +1,11 @@
 # These and other macros are documented in dhd/droid-hal-device.inc
 # Feel free to cleanup this file by removing comments, once you have memorised them ;)
 
-%define device tucana
+%define device joyeuse
 %define vendor xiaomi
 
 %define vendor_pretty Xiaomi
-%define device_pretty Mi Note 10
+%define device_pretty Redmi Note 9 Pro
 
 %define installable_zip 1
 %define droid_target_aarch64 1
